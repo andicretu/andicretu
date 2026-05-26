@@ -22,14 +22,14 @@ Before moving into software development, I spent 15+ years in international busi
 AI-powered legal research and analysis platform built on Romanian legislation and jurisprudence.
 
 Main areas:
-- Vector search & embeddings
 - Multi-step reasoning workflows
 - Source-grounded AI responses
 - PostgreSQL + pgvector
+- Vector search & embeddings
 - React / Next.js frontend
 - Node.js backend
 
-The goal is not just generating answers, but making AI reasoning more transparent and verifiable.
+The goal is not just generating answers, but also making AI reasoning more transparent and verifiable.
 
 ---
 
